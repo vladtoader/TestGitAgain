@@ -31,6 +31,7 @@
 		E6F3D94E158A7FA900BF931D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E6F3D94F158A7FA900BF931D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E6F3D952158A7FA900BF931D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		E6F3D95D158A805600BF931D /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 				E6F3D94F158A7FA900BF931D /* ViewController.m */,
 				E6F3D951158A7FA900BF931D /* ViewController.xib */,
 				E6F3D943158A7FA900BF931D /* Supporting Files */,
+				E6F3D95D158A805600BF931D /* README */,
 			);
 			path = TestGitAgain;
 			sourceTree = "<group>";
@@ -275,6 +277,7 @@
 				E6F3D958158A7FA900BF931D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
